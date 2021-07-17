@@ -2,7 +2,7 @@
 - 👀 I’m interested in MEAN stack development
 - 🌱 I’m currently learning apache KAFKA
 - 💞️ I’m looking to collaborate on new project ideas
-- 📫 feel free to cnnect me at kunalsali27@gmail.com
+- 📫 feel free to connect me at kunalsali27@gmail.com
 
 <!---
 kunalsali009/kunalsali009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
